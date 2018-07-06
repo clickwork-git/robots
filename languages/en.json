@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Robots",
+		"description": "The plugin allows to add the tags "noindex" and "nofollow" to the header of selected pages."
+	}
+}
