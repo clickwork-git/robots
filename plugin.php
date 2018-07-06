@@ -28,7 +28,7 @@ class pluginRobots extends Plugin {
         $noindex = $this->getValue('text');
 
         if ($slug !== '' && strpos($noindex,$slug) !== false ){
-		   	echo '<meta name="robots" content="noindex" />'.PHP_EOL;
+		   	echo '<meta name="robots" content="noindex, nofollow" />'.PHP_EOL;
 		}
 
 	}
