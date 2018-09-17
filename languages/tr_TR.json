@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Robotlar",
+		"description": "Eklenti, seçilen sayfaların başlık bölümüne "noindex" ve "nofollow" etiketlerinin eklenmesini sağlar."
+	}
+}
